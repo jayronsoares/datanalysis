@@ -1,4 +1,4 @@
-# This examples use the basics algorithms of sklearn, XGBooting and KEras.
+# This examples use the basics algorithms of sklearn, XGBooting and KEras in order to know about their performance and accuracy.
 # Setting up
 # data handling
 
