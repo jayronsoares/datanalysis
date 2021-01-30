@@ -1,2 +1,2 @@
-## Thinking in Data
+## Thinking with Data
 Data analysis algorithms using public datasets
