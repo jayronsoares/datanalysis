@@ -83,7 +83,7 @@ INSERT INTO cliente VALUES
     (240,'Antônio',9500,'C'),
     (720,'Felipe',4600,'A'),
     (213,'Jonas',2300,'A'),
-    (101,'João',2650,'C'),
+    (101,'Vitor',2650,'C'),
     (310,'Josias',870,'B'),
     (250,'Maurício',2930,'B');
 
