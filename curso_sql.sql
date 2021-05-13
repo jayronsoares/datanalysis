@@ -85,7 +85,7 @@ INSERT INTO cliente VALUES
     (213,'Jonas',2300,'A'),
     (101,'Vitor',2650,'C'),
     (310,'Josias',870,'B'),
-    (250,'Maurício',2930,'B');
+    (250,'Maria',2930,'B');
 
 -- Carregar a tabela PRODUTO
 INSERT INTO produto VALUES
