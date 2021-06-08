@@ -1,5 +1,5 @@
 '''
-Algoritmo usado minerar tweets no Twitter.com de acordo com os rótulos de interesses.
+Algoritmo usado para minerar mensagens na plataforma Twitter de acordo com os rótulos de interesses.
 '''
 from __future__ import absolute_import, print_function
 import tweepy
